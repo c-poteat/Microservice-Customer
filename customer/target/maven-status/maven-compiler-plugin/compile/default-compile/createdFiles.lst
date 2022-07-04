@@ -1,0 +1,7 @@
+com/nellmicro/customer/CustomerRepository.class
+com/nellmicro/customer/CustomerRegistrationRequest.class
+com/nellmicro/customer/CustomerController.class
+com/nellmicro/customer/Customer$CustomerBuilder.class
+com/nellmicro/customer/Customer.class
+com/nellmicro/customer/CustomerApplication.class
+com/nellmicro/customer/CustomerService.class
